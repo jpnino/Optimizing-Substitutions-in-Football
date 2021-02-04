@@ -1,0 +1,2 @@
+# Optimizing-Substitutions-in-Football
+Study on the effect of substitutions in the course of the match. The outcome measure of performance is the xG differential (expected goals - expected goals against). A k-means clustering method was used to classify teams by playstyle, and then analyzed as a potential explanatory variable. With an xG measure calculated from an XG Boost model using 40 Premier League matches, a random forest produced a 56% prediction rate. The results of the model are expected to significantly improve when the sample size is increased.
